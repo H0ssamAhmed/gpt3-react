@@ -1,0 +1,100 @@
+.gpt3-header {
+    display: flex;
+}
+
+.gpt3-header-content {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gpt3-header-content div {
+    flex: 1;
+
+}
+
+@media screen and (max-width:779px) {
+    .gpt3-header-content {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .gpt3-header-people {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width:650px) {
+    .gpt3-header-heading {
+        font-size: 48px !important;
+    }
+}
+
+.gpt3-header-heading {
+    font-family: var(--font-family);
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 75px;
+    letter-spacing: -2.48px;
+}
+
+.gpt3-header-content p {
+    color: var(--color-text);
+    font-family: var(--font-family);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 1rem 0rem;
+    flex-shrink: 0;
+}
+
+
+.gpt3-header-input [type='email'] {
+    background-color: #052D56;
+    color: var(--color-primary);
+
+}
+
+.gpt3-header-input [type='email'],
+.gpt3-header-input [type='submit'] {
+    padding: 0.5rem 0.5rem;
+    margin-top: 0.5rem;
+    border: none;
+    outline: none;
+}
+
+.gpt3-header-input [type='submit'] {
+    background-color: var(--color-primary);
+    color: white;
+    transition: var(--main-transition);
+    cursor: pointer;
+}
+
+.gpt3-header-input [type='submit']:hover {
+    background-color: #a5271f;
+}
+
+.gpt3-header-people {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 1rem;
+    gap: 1rem;
+}
+
+.gpt3-header-img-holder {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gpt3-header-side .ai {
+    max-height: 100%;
+    max-width: 100%;
+}

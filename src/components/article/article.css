@@ -1,0 +1,39 @@
+.gpt3-articles-text-info span {
+    display: block;
+    margin: 10px 0;
+}
+
+.gpt3-articles-text {
+    margin: 1rem;
+}
+
+.gpt3-articles-text button {
+    margin: 2rem 0 0 0;
+    background: transparent;
+    color: white;
+    border: none;
+    border-radius: 100px;
+    outline: none;
+    cursor: pointer;
+    transition: var(--main-transition);
+    text-decoration: underline transparent;
+}
+
+.gpt3-articles-text button:hover {
+    text-decoration: underline #3f51b5 2px;
+}
+
+.gpt3-articles-content {
+    background-color: var(--color-blog);
+}
+
+.gpt3-articles-content-img {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gpt3-articles-content-img img {
+    width: 100%;
+}
