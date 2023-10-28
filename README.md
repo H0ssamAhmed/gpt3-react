@@ -4,7 +4,7 @@ Welcome to the GPT-3 React Web Application! This application utilizes OpenAI's G
 
 ## Live Demo
 
-Explore the live demo: [GPT-3 React Demo](https://h0ssamahmed.github.io/gpt3-react/)
+Explore the live demo: [GPT-3 React](https://h0ssamahmed.github.io/gpt3-react/)
 
 ## Description
 
