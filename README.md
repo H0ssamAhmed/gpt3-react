@@ -13,9 +13,7 @@ The GPT-3 React Web Application is a project that demonstrates the capabilities 
 ## Technologies Used
 
 - React: A JavaScript library for building user interfaces.
-- OpenAI GPT-3 API: To generate human-like text.
-- Other technologies used in your project.
-- 
+
 ## Features
 - User-friendly interface for input and output.
 
