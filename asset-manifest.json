@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/gpt3-react/static/css/main.654116be.css",
+    "main.js": "/gpt3-react/static/js/main.00cc495a.js",
+    "static/media/blog01.png": "/gpt3-react/static/media/blog01.be9909a86a4e4ff62d1e.png",
+    "static/media/ai.png": "/gpt3-react/static/media/ai.29ee5a5f450175f5ff57.png",
+    "static/media/possibility.png": "/gpt3-react/static/media/possibility.44ebb655613b79c29861.png",
+    "static/media/blog03.png": "/gpt3-react/static/media/blog03.08f7015f13a9545da7d8.png",
+    "static/media/blog05.png": "/gpt3-react/static/media/blog05.928bba82fc08bb74f19e.png",
+    "static/media/blog04.png": "/gpt3-react/static/media/blog04.13e8e74b7540fd573827.png",
+    "static/media/blog02.png": "/gpt3-react/static/media/blog02.0f142e890dfd60e62ead.png",
+    "static/media/people.webp": "/gpt3-react/static/media/people.9b74ea2126ee863c7355.webp",
+    "static/media/dropbox.webp": "/gpt3-react/static/media/dropbox.a343e23f3bbd4b31129b.webp",
+    "static/media/logo.svg": "/gpt3-react/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "static/media/shopify.webp": "/gpt3-react/static/media/shopify.495a6e31fd200e159745.webp",
+    "static/media/atlassian.webp": "/gpt3-react/static/media/atlassian.d59583244eb05f9fb52d.webp",
+    "static/media/slack.webp": "/gpt3-react/static/media/slack.f9592d915678df2da797.webp",
+    "static/media/google.webp": "/gpt3-react/static/media/google.a5811aba942daf3a6226.webp",
+    "index.html": "/gpt3-react/index.html",
+    "main.654116be.css.map": "/gpt3-react/static/css/main.654116be.css.map",
+    "main.00cc495a.js.map": "/gpt3-react/static/js/main.00cc495a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.654116be.css",
+    "static/js/main.00cc495a.js"
+  ]
+}
