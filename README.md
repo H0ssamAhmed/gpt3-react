@@ -14,6 +14,7 @@ The GPT-3 React Web Application is a project that demonstrates the capabilities 
 
 - React: A JavaScript library for building user interfaces.
 
+  
 ## Features
-- User-friendly interface for input and output.
 
+- User-friendly interface for input and output.
