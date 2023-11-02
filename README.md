@@ -1,6 +1,8 @@
 # GPT-3 React Web Application
 
-Welcome to the GPT-3 React Web Application! This application utilizes OpenAI's GPT-3 to generate human-like text based on user input.
+Welcome to the GPT-3 React Web Application! 
+
+This application utilizes OpenAI's GPT-3 to generate human-like text based on user input.
 The GPT-3 React Web Application is a project that demonstrates the capabilities of the GPT-3 language model by OpenAI.
 
 ## Live Demo
